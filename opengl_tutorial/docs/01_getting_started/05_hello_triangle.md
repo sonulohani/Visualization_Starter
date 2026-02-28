@@ -1065,4 +1065,4 @@ Here is the complete sequence of operations when setting up geometry for renderi
 
 | | Navigation | |
 |:---|:---:|---:|
-| [← Previous: Hello Window](03_hello_window.md) | | [Next: Shaders →](05_shaders.md) |
+| [← Previous: Hello Window](04_hello_window.md) | | [Next: Shaders →](06_shaders.md) |

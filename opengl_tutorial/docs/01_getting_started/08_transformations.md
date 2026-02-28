@@ -1,6 +1,6 @@
 # Transformations
 
-[Previous: Textures](06_textures.md) | [Next: Coordinate Systems](08_coordinate_systems.md)
+[Previous: Textures](07_textures.md) | [Next: Coordinate Systems](09_coordinate_systems.md)
 
 ---
 
@@ -644,4 +644,4 @@ int main() {
 
 ---
 
-[Previous: Textures](06_textures.md) | [Next: Coordinate Systems](08_coordinate_systems.md)
+[Previous: Textures](07_textures.md) | [Next: Coordinate Systems](09_coordinate_systems.md)

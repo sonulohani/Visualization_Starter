@@ -1,6 +1,6 @@
 # Camera
 
-[Previous: Coordinate Systems](08_coordinate_systems.md) | [Next: Review](10_review.md)
+[Previous: Coordinate Systems](09_coordinate_systems.md) | [Next: Review](11_review.md)
 
 ---
 
@@ -762,4 +762,4 @@ int main() {
 
 ---
 
-[Previous: Coordinate Systems](08_coordinate_systems.md) | [Next: Review](10_review.md)
+[Previous: Coordinate Systems](09_coordinate_systems.md) | [Next: Review](11_review.md)

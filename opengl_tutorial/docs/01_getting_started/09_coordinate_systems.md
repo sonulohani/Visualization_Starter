@@ -1,6 +1,6 @@
 # Coordinate Systems
 
-[Previous: Transformations](07_transformations.md) | [Next: Camera](09_camera.md)
+[Previous: Transformations](08_transformations.md) | [Next: Camera](10_camera.md)
 
 ---
 
@@ -665,4 +665,4 @@ int main() {
 
 ---
 
-[Previous: Transformations](07_transformations.md) | [Next: Camera](09_camera.md)
+[Previous: Transformations](08_transformations.md) | [Next: Camera](10_camera.md)

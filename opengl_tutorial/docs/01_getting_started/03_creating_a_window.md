@@ -398,4 +398,4 @@ Let's trace the sequence of events when this program runs:
 
 | | Navigation | |
 |:---|:---:|---:|
-| [← Previous: What is OpenGL?](01_opengl.md) | | [Next: Hello Window →](03_hello_window.md) |
+| [← Previous: The OpenGL Context](02_opengl_context.md) | | [Next: Hello Window →](04_hello_window.md) |

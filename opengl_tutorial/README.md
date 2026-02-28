@@ -26,15 +26,16 @@ Each chapter has its own executable. After building, you'll find them in `build/
 | # | Chapter | Description |
 |---|---------|-------------|
 | 1.1 | [What is OpenGL?](docs/01_getting_started/01_opengl.md) | History, graphics pipeline overview, OpenGL vs Vulkan |
-| 1.2 | [Creating a Window](docs/01_getting_started/02_creating_a_window.md) | Setting up GLFW, GLAD, and your first window |
-| 1.3 | [Hello Window](docs/01_getting_started/03_hello_window.md) | Window loop, input handling, clearing the screen |
-| 1.4 | [Hello Triangle](docs/01_getting_started/04_hello_triangle.md) | Vertices, VAO, VBO, shaders, drawing your first triangle |
-| 1.5 | [Shaders](docs/01_getting_started/05_shaders.md) | GLSL in depth, uniforms, vertex attributes, shader class |
-| 1.6 | [Textures](docs/01_getting_started/06_textures.md) | Loading images, texture coordinates, texture units, mixing |
-| 1.7 | [Transformations](docs/01_getting_started/07_transformations.md) | Vectors, matrices, GLM, translate/rotate/scale |
-| 1.8 | [Coordinate Systems](docs/01_getting_started/08_coordinate_systems.md) | Model/View/Projection, perspective, orthographic, 3D scene |
-| 1.9 | [Camera](docs/01_getting_started/09_camera.md) | Look-at matrix, FPS camera, mouse input, zoom |
-| 1.10 | [Review](docs/01_getting_started/10_review.md) | Summary and exercises |
+| 1.2 | [The OpenGL Context](docs/01_getting_started/02_opengl_context.md) | What a context is, why it's needed, shared contexts, multi-threaded rendering |
+| 1.3 | [Creating a Window](docs/01_getting_started/03_creating_a_window.md) | Setting up GLFW, GLAD, and your first window |
+| 1.4 | [Hello Window](docs/01_getting_started/04_hello_window.md) | Window loop, input handling, clearing the screen |
+| 1.5 | [Hello Triangle](docs/01_getting_started/05_hello_triangle.md) | Vertices, VAO, VBO, shaders, drawing your first triangle |
+| 1.6 | [Shaders](docs/01_getting_started/06_shaders.md) | GLSL in depth, uniforms, vertex attributes, shader class |
+| 1.7 | [Textures](docs/01_getting_started/07_textures.md) | Loading images, texture coordinates, texture units, mixing |
+| 1.8 | [Transformations](docs/01_getting_started/08_transformations.md) | Vectors, matrices, GLM, translate/rotate/scale |
+| 1.9 | [Coordinate Systems](docs/01_getting_started/09_coordinate_systems.md) | Model/View/Projection, perspective, orthographic, 3D scene |
+| 1.10 | [Camera](docs/01_getting_started/10_camera.md) | Look-at matrix, FPS camera, mouse input, zoom |
+| 1.11 | [Review](docs/01_getting_started/11_review.md) | Summary and exercises |
 
 ### 2. Lighting
 

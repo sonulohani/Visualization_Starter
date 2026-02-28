@@ -341,4 +341,4 @@ Add this after `glfwMakeContextCurrent` to limit the frame rate to your monitor'
 
 | | Navigation | |
 |:---|:---:|---:|
-| [← Previous: Creating a Window](02_creating_a_window.md) | | [Next: Hello Triangle →](04_hello_triangle.md) |
+| [← Previous: Creating a Window](03_creating_a_window.md) | | [Next: Hello Triangle →](05_hello_triangle.md) |

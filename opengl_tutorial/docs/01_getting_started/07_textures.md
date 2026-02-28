@@ -1,6 +1,6 @@
 # Textures
 
-[Previous: Shaders](05_shaders.md) | [Next: Transformations](07_transformations.md)
+[Previous: Shaders](06_shaders.md) | [Next: Transformations](08_transformations.md)
 
 ---
 
@@ -763,4 +763,4 @@ int main() {
 
 ---
 
-[Previous: Shaders](05_shaders.md) | [Next: Transformations](07_transformations.md)
+[Previous: Shaders](06_shaders.md) | [Next: Transformations](08_transformations.md)

@@ -278,4 +278,4 @@ OpenGL doesn't provide any math functions — you need to compute transformation
 
 | | Navigation | |
 |:---|:---:|---:|
-| | | [Next: Creating a Window →](02_creating_a_window.md) |
+| | | [Next: The OpenGL Context →](02_opengl_context.md) |

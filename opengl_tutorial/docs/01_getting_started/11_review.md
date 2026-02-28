@@ -1,6 +1,6 @@
 # Getting Started — Review
 
-[Previous: Camera](09_camera.md) | [Next: Lighting (Section 2)](../../docs/02_lighting/01_colors.md)
+[Previous: Camera](10_camera.md) | [Next: Colors (Section 2)](../../docs/02_lighting/01_colors.md)
 
 ---
 
@@ -520,4 +520,4 @@ The foundation you've built in this section — shaders, textures, transformatio
 
 ---
 
-[Previous: Camera](09_camera.md) | [Next: Lighting (Section 2)](../../docs/02_lighting/01_colors.md)
+[Previous: Camera](10_camera.md) | [Next: Colors (Section 2)](../../docs/02_lighting/01_colors.md)

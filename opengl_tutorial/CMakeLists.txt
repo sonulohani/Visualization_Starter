@@ -139,6 +139,9 @@ add_tutorial(06_coordinate_systems
 add_tutorial(07_camera
     src/01_getting_started/camera/main.cpp)
 
+add_tutorial(07b_opengl_context
+    src/01_getting_started/opengl_context/main.cpp)
+
 # -- 02: Lighting --------------------------------------------------------------
 
 add_tutorial(08_colors
