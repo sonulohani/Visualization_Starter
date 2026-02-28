@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/10_model_loading.dir/src/03_model_loading/main.cpp.o -o bin/10_model_loading  /usr/lib/x86_64-linux-gnu/libassimp.so.5.3.0 libglad.a libstb_image.a /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so -lpugixml 

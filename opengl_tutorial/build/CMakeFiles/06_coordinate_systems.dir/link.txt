@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/06_coordinate_systems.dir/src/01_getting_started/coordinate_systems/main.cpp.o -o bin/06_coordinate_systems  libglad.a libstb_image.a /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so 
