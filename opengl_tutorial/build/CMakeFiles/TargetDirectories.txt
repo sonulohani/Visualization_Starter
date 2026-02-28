@@ -1,0 +1,14 @@
+/home/sonul/Documents/playground/opengl_tutorial/build/CMakeFiles/glad.dir
+/home/sonul/Documents/playground/opengl_tutorial/build/CMakeFiles/stb_image.dir
+/home/sonul/Documents/playground/opengl_tutorial/build/CMakeFiles/01_hello_window.dir
+/home/sonul/Documents/playground/opengl_tutorial/build/CMakeFiles/02_hello_triangle.dir
+/home/sonul/Documents/playground/opengl_tutorial/build/CMakeFiles/03_shaders.dir
+/home/sonul/Documents/playground/opengl_tutorial/build/CMakeFiles/04_textures.dir
+/home/sonul/Documents/playground/opengl_tutorial/build/CMakeFiles/05_transformations.dir
+/home/sonul/Documents/playground/opengl_tutorial/build/CMakeFiles/06_coordinate_systems.dir
+/home/sonul/Documents/playground/opengl_tutorial/build/CMakeFiles/07_camera.dir
+/home/sonul/Documents/playground/opengl_tutorial/build/CMakeFiles/08_colors.dir
+/home/sonul/Documents/playground/opengl_tutorial/build/CMakeFiles/09_basic_lighting.dir
+/home/sonul/Documents/playground/opengl_tutorial/build/CMakeFiles/10_model_loading.dir
+/home/sonul/Documents/playground/opengl_tutorial/build/CMakeFiles/edit_cache.dir
+/home/sonul/Documents/playground/opengl_tutorial/build/CMakeFiles/rebuild_cache.dir
